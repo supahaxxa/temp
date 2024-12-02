@@ -1,0 +1,28 @@
+passkeys = {
+	"bdr": "BangladeshRailway",	# p	###########
+	"blockchain": "Blockchain",	###	# supahaxxa
+	"ch": "CryptoHack",		###	# supahaxxa
+	"codeforces": "Codeforces",	# p	# supahaxxa
+	"codewars": "Codewars",		###	# supahaxxa
+	"coursera": "Coursera",		###	# supahaxxa
+	"degoo": "Degoo",		# p	###########
+	"edx": "edX",			# p	# supahaxxa
+	"exercism": "Exercism",		###	# supahaxxa
+	"fb": "Facebook",		# p	###########
+	"fcc": "FestoCodingChallenge",	###	# supahaxxa
+	"gh": "GitHub",			###	# supahaxxa
+	"google": "Google",		# p	# supahaxxa
+	"hr": "HackerRank",		###	# supahaxxa
+	"if": "InfinityFree",		# p	# supahaxxa
+	"ig": "Instagram",		# p	# supahaxxa
+	"iymc": "IYMC",			# p	###########
+	"lc": "LeetCode",		###	# supahaxxa
+	"loj": "LightOJ",		###	# supahaxxa
+	"pastebin": "Pastebin",		###	# supahaxxa
+	"pe": "ProjectEuler",		# p	# supahaxxa
+	"steam": "Steam",		###	# supahaxxa
+	"toph": "Toph",			###	# supahaxxa
+	"wt": "WebToon",		###	# supahaxxa
+	'x': "Twitter",			# p	# supahaxxa
+	"10ms": "10MinuteSchool"	# p	###########
+}
